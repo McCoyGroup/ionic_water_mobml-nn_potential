@@ -5,7 +5,7 @@ This repository includes the codes and results for the manuscript:
 ***Machine Learning Approaches for Developing Potential Surfaces: Applications to OH-(H2O)n (n=1-3) Complexes*** [link](xxxxx)
 
 
-Due to the limited space on GitHub, our Zenodo repository contains all the training and test data (structures and labels)
+Due to the limited space on GitHub, our [Zenodo repository](https://zenodo.org/records/14563580) contains all the training and test data (structures and labels)
 
 ## Content list
  
