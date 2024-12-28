@@ -13,7 +13,7 @@ Due to the limited space on GitHub, our [Zenodo repository](https://zenodo.org/r
 
 * [dmc_data](dmc_data): Please see the Zenodo repository. TODO: Greta please put your DMC data under this folder and write a description. I leave the files as what it is on google drive and not sure if they are useful. if not, please delete them.
 
-* [dmc_model](dmc_model): TODO: Greta please put your DMC model under this folder and write a description. 
+* [dmc_model](dmc_model): The final versions of the neural network models used to obtain the DMC results for the four systems included in the manuscript. For each system, there is a .pth file containing the neural network model itself, plus a .py script containing the code for the system's associated molecular descriptor, which calls the NN model in the context of a DMC simulation.
 
 * [plot.ipynb](plot.ipynb): Plot the results and make the figures in the manuscript. 
 
