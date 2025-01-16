@@ -23,10 +23,10 @@ Due to the limited space on GitHub, our [Zenodo repository](https://zenodo.org/r
 ## Please cite us as
 
 ```
-@article{xxx,
-  title={xxxx},
-  author={xxxx},
-  doi = {xxx},
-  journal = {xxxx},
+@article{jacobsone2024,
+  title={Machine Learning Approaches for Developing Potential Surfaces: Applications to OH-(H2O)n (n=1-3) Complexes},
+  author={Jacobson, Greta and Cheng, Lixue and Bhethanabotla, Vignesh and Sun, Jiace and McCoy, Anne},
+  doi = {10.26434/chemrxiv-2024-5c808-v2},
+  journal = {ChemRxiv},
 }
 ```
