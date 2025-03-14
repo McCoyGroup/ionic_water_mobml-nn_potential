@@ -1,4 +1,4 @@
-# Machine Learning Approaches for Developing Potential Surfaces: Applications to OH-(H2O)n (n=1-3) Complexes
+# Machine Learning Approaches for Developing Potential Surfaces: Applications to OH<sup>-</sup>(H<sub>2</sub>O)<sub>n</sub> (n=1-3) Complexes
 
 ## Overview
 This repository includes the codes and results for the manuscript:
